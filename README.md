@@ -1,0 +1,2 @@
+# storemika
+Belajar membuat onlineshop
